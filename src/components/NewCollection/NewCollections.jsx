@@ -22,6 +22,7 @@ export const NewCollections = () => {
           );
         })}
       </div>
+      <div> </div>
     </div>
   );
 };
